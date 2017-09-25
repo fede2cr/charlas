@@ -16,3 +16,5 @@ La mayoría de la población del ECSL, como lo dice el nombre del evento trabaja
 ### Video
 
 Se realizó grabación profesional por parte del equipo de UNED Audiovisuales, pero aunque dió permiso para publicación, no se puso más. Tengo una grabación del video pero con audio con captura del cuarto.
+
+[Youtube](https://www.youtube.com/watch?v=jv18rQyPM70)

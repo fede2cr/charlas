@@ -7,7 +7,7 @@ from adafruit_pybadger import PyBadger
 
 pybadger = PyBadger()
 
-pybadger.show_badge(name_string="Alvaro", hello_string="CONCITES", my_name_is_string="XII", hello_scale=2, my_name_is_scale=2, name_scale=3, background_color=0x00FF00)
+pybadger.show_badge(name_string="Alvaro", hello_string="CONCITES", my_name_is_string="XXI", hello_scale=2, my_name_is_scale=2, name_scale=3, background_color=0x00FF00)
 
 while True:
     # Reading buttons too fast returns 0

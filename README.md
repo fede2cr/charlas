@@ -2,8 +2,25 @@
 
 Como activista de software libre, hacker de hardware libre y en mis funciones en [Greencore Solutions](https://www.greencore.co.cr/) me toca dar charlas de diversos temas. Aquí la lista de algunas de ellas.
 
-- [Asterisk - navaja suiza de la telefonía](https://github.com/fede2cr/charlas/tree/master/Asterisk%20-%20Navaja%20Suiza%20de%20la%20Telefonia)
-- [Introducción al Hardware libre](https://github.com/fede2cr/charlas/tree/master/ecsl2017)
-- [¿Como comenzar en robótica](https://github.com/fede2cr/charlas/tree/master/exporobotica2017)
-- [RISCV 64: Software libre sobre hardware libre](https://github.com/fede2cr/charlas/tree/master/flisol2018/)
-- [Amplificadores de tubos al vacío](https://github.com/fede2cr/charlas/tree/master/arduinoday2018)
+### 2011
+
+- [Asterisk - navaja suiza de la telefonía](https://github.com/fede2cr/charlas/tree/master/2011/2011-Asterisk%20-%20Navaja%20Suiza%20de%20la%20Telefonia)
+
+### 2017
+
+- [Introducción al Hardware libre](https://github.com/fede2cr/charlas/tree/master/2017/2017-ecsl)
+- [¿Como comenzar en robótica](https://github.com/fede2cr/charlas/tree/master/2017/2017-exporobotica/presentacion)
+
+### 2018
+
+- [RISCV 64: Software libre sobre hardware libre](https://github.com/fede2cr/charlas/tree/master/2018/2018-flisol)
+- [Amplificadores de tubos al vacío](https://github.com/fede2cr/charlas/tree/master/2018/2018-arduinoday)
+- [IoT en la Isla del Coco, IoT@UNA](https://github.com/fede2cr/charlas/tree/master/2018/2018-IoT-INA)
+- [Inseguridad en procesadores](https://github.com/fede2cr/charlas/tree/master/2018/2018-privafest)
+- [IoT en la Isla del Coco, Software Freedom Day](https://github.com/fede2cr/charlas/tree/master/2018/2018-software-freedom-day)
+
+
+### 2019
+
+- [Slackware RiscV64, MakerDay](https://github.com/fede2cr/charlas/tree/master/2019/2019-03-16_MakerDayCR-Slackware-riscv64)
+- [Bosques Inteligentes: La Isla del Coco](https://github.com/fede2cr/charlas/tree/master/2019/2019-08-23_XXI_CONCITES-Bosques_inteligentes:_La_Isla_del_Coco)

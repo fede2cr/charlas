@@ -30,4 +30,4 @@ Como activista de software libre, hacker de hardware libre y en mis funciones en
 - [Flisol Guatemala, Creando hardware libre](https://github.com/fede2cr/charlas/tree/master/2020/2020-05-16_FlisolGT-Como_crear_hardware_libre)
 
 
-[![Flisol Guatemala, Creando hardware libre](http://img.youtube.com/vi/qrJIrXBs0r0/1.jpg)](http://www.youtube.com/watch?v=qrJIrXBs0r0&t=4m18s)
+[![Flisol Guatemala, Creando hardware libre](http://img.youtube.com/vi/qrJIrXBs0r0/2.jpg)](http://www.youtube.com/watch?v=qrJIrXBs0r0&t=4m18s)

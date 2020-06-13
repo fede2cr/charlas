@@ -24,3 +24,10 @@ Como activista de software libre, hacker de hardware libre y en mis funciones en
 
 - [Slackware RiscV64, MakerDay](https://github.com/fede2cr/charlas/tree/master/2019/2019-03-16_MakerDayCR-Slackware-riscv64)
 - [Bosques Inteligentes: La Isla del Coco](https://github.com/fede2cr/charlas/tree/master/2019/2019-08-23_XXI_CONCITES-Bosques_inteligentes:_La_Isla_del_Coco)
+
+### 2020
+
+- [Flisol Guatemala, Creando hardware libre]()
+
+
+[![Flisol Guatemala, Creando hardware libre](http://img.youtube.com/vi/qrJIrXBs0r0/0.jpg)](http://www.youtube.com/watch?v=qrJIrXBs0r0&t=4m18s)
